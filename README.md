@@ -36,6 +36,10 @@
 
 ## 3. 재학 중 수료한 자격증
 ---
-#### MOS Office Excel® 2016 Expert
-#### MOS Office PowerPoint® 2016
-#### MOS Office Access® 2016
+#### MOS Office Excel® 2016 Expert (2021년 2학기 취득)
+#### MOS Office PowerPoint® 2016 (2021년 1학기 취득)
+#### MOS Office Access® 2016 (2021년 1학기 취득)
+
+## 4. 그 외 기타사항
+프로그래밍 언어 외에도 다양한 나라의 외국어에 관심이 많습니다.
+교내 교양수업으로 1학년 1학기엔 스페인어, 2학년 1학기에 독일어를, 2학년 2학기엔 프랑스어 수업을 들었습니다.
